@@ -1,0 +1,5 @@
+scenario,task,target,feature_set,n_features,model,cv_mean,cv_std,valid_accuracy,valid_balanced_accuracy,valid_f1,valid_roc_auc,cv_mean_rmse,cv_std_rmse,valid_rmse,valid_mae,valid_r2
+next_day_classification,classification,next_market_up,market_plus_simple_nlp,11,random_forest,0.5017086498463017,0.027408450595932356,0.5047619047619047,0.50588448717658,0.5984555984555985,0.5064287172044717,,,,,
+next_day_regression,regression,next_log_return,market_only,4,dummy,,,,,,,0.00999098302875368,0.003707201272108464,0.011999937573133293,0.008872337309581499,-0.0001704961165807095
+premarket_classification,classification,market_up,market_only,4,random_forest,0.5214735475987111,0.04234637198189987,0.5285714285714286,0.5285714285714286,0.5540540540540541,0.5336507936507936,,,,,
+premarket_regression,regression,log_return,market_only,4,random_forest,,,,,,,0.010139652195557337,0.0037448450275133884,0.01200206051846035,0.008760485006665642,0.001478774797636695
