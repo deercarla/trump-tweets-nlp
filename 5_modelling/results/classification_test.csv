@@ -1,3 +1,0 @@
-scenario,task,target,selected_feature_set,selected_model,n_features,test_accuracy,test_balanced_accuracy,test_f1,test_roc_auc,test_rmse,test_mae,test_r2
-next_day_classification,classification,next_market_up,market_plus_simple_nlp,random_forest,11,0.562,0.533125582764882,0.6562009419152276,0.5476108684628094,,,
-premarket_classification,classification,market_up,market_only,random_forest,4,0.534,0.5326612639696752,0.570902394106814,0.5299000065355206,,,
