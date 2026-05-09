@@ -4,7 +4,7 @@
 > **NLP Final Assignment** · Natural Language Processing and Text Analytics (CDSCO1002U)  
 > Copenhagen Business School — MSc. Business Administration and Data Science
 
-**Authors:** Carla de Erausquin · Christoph Schilling · Diogo Semedo Amaro · José Lobo
+**Authors:** Carla de Erausquin · Christoph Schilling · Diogo António Semedo Amaro · José Lobo
 
 ---
 
