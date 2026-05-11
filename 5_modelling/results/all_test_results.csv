@@ -1,5 +1,5 @@
-scenario,task,target,selected_feature_set,selected_model,n_features,test_accuracy,test_balanced_accuracy,test_f1,test_roc_auc,test_rmse,test_mae,test_r2
-next_day_classification,classification,next_market_up,market_plus_semantic,gradient_boosting,36,0.586,0.5497947031784202,0.6877828054298643,0.5934141433969672,,,
-next_day_regression,regression,next_log_return,market_only,dummy,4,,,,,0.010065444284111748,0.0065936608639199645,-0.0010947720749012735
-premarket_classification,classification,market_up,market_only,random_forest,4,0.538,0.5349813737664204,0.5792349726775956,0.5306679302006405,,,
-premarket_regression,regression,log_return,market_only,random_forest,4,,,,,0.010295356978554937,0.006726579588112269,-0.05846670167971779
+scenario,task,target,selected_feature_set,selected_model,n_features,train_valid_rows,test_rows,test_accuracy,test_balanced_accuracy,test_f1,test_roc_auc,test_rmse,test_mae,test_r2
+next_day_classification,classification,next_market_up,market_plus_semantic,gradient_boosting,47,3016,500,0.58,0.5397261618491436,0.6893491124260355,0.5861837692823608,,,
+next_day_regression,regression,next_log_return,market_only,dummy,4,3016,500,,,,,0.010065444284111748,0.0065936608639199645,-0.0010947720749012735
+premarket_classification,classification,market_up,market_only,gradient_boosting,4,3016,500,0.544,0.4978759558198811,0.6724137931034483,0.49651166590418927,,,
+premarket_regression,regression,log_return,market_only,dummy,4,3016,500,,,,,0.010010508881873052,0.006561349967949541,-0.0007064316009304239
